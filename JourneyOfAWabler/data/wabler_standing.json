@@ -1,0 +1,97 @@
+{ "frames": {
+   "wabler_standing 0.aseprite": {
+    "frame": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 1.aseprite": {
+    "frame": { "x": 20, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 2.aseprite": {
+    "frame": { "x": 40, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 3.aseprite": {
+    "frame": { "x": 60, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 4.aseprite": {
+    "frame": { "x": 80, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 5.aseprite": {
+    "frame": { "x": 100, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 6.aseprite": {
+    "frame": { "x": 120, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 7.aseprite": {
+    "frame": { "x": 140, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 8.aseprite": {
+    "frame": { "x": 160, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   },
+   "wabler_standing 9.aseprite": {
+    "frame": { "x": 180, "y": 0, "w": 20, "h": 32 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 32 },
+    "sourceSize": { "w": 20, "h": 32 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.2.9",
+  "format": "RGBA8888",
+  "size": { "w": 200, "h": 32 },
+  "scale": "1",
+  "frameTags": [
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}
